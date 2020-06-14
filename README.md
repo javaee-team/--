@@ -1,5 +1,6 @@
 ## 第七组 图书管理系统需求分析
 
+### 系统特点
 - 使用maven创建的基于spring框架的web项目
 - 界面设计简洁，友好
 - 信息分类清晰，准确
@@ -22,7 +23,7 @@
 
 图书管理系统的角色分为两类：前台读者和后台管理员。读者仅可以修改个人信息、借阅或归还书籍和查看自己的借还日志。具体的功能需求如表1和表2所示。
 
-![1592130654564](assets/1592130654564.png)
+![1592130654564](https://img-blog.csdnimg.cn/2020061418353684.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwODM2NTUz,size_16,color_FFFFFF,t_70)
 
 #### 用户功能阐述
 
@@ -42,7 +43,7 @@
 
 根据上面描述读者的基本功能，读者的功能结构图如下图所示。
 
-![1592130780418](assets/1592130780418.png)
+![1592130780418](https://img-blog.csdnimg.cn/20200614183704936.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwODM2NTUz,size_16,color_FFFFFF,t_70)
 
 2．管理员的功能需求
 
@@ -58,4 +59,4 @@
 
 根据该部分对管理员基本功能的描述，管理员功能结构图如下图所示。
 
-![1592130808716](assets/1592130808716.png)
+![1592130808716](https://img-blog.csdnimg.cn/20200614183733823.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwODM2NTUz,size_16,color_FFFFFF,t_70)
